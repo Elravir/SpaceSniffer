@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JuniorFactory.SpaceSnoop
+namespace SpaceSniffer
 {
     public class DirectorySpace()
     {

@@ -1,4 +1,4 @@
-﻿namespace JuniorFactory.SpaceSnoop
+﻿namespace SpaceSniffer
 {
     partial class MainForm
     {

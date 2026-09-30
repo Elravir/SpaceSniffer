@@ -1,4 +1,4 @@
-namespace JuniorFactory.SpaceSnoop
+namespace SpaceSniffer
 {
     internal static class Program
     {
